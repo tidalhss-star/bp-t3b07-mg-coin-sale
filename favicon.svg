@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity d48b02a139678d11</metadata>
-  <rect width="64" height="64" rx="16" fill="hsl(51 69% 33%)"/>
-  <path d="M31 0h33v64H17Z" fill="hsl(101 65% 75%)" opacity="0.82"/>
-  <g transform="rotate(277 32 32)" opacity="0.42"><path d="M12 32c8-17 32-17 40 0-8 17-32 17-40 0Z" fill="none" stroke="#ffffff" stroke-width="6"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">MR</text>
+  <title>마곡 코인노래방 할인</title>
+  <rect width="64" height="64" rx="11" fill="hsl(51 67% 37%)"/>
+  <g transform="rotate(90 32 32)"><path d="M12 26q10-10 20 0t20 0" fill="none" stroke="hsl(51 24% 96%)" stroke-width="6" stroke-linecap="round"/><path d="M12 40q10-10 20 0t20 0" fill="none" stroke="hsl(108 68% 67%)" stroke-width="6" stroke-linecap="round"/></g>
 </svg>
